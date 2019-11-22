@@ -18,5 +18,5 @@ Exya is a stealer builder with optional AAP bypass for hacking Growtopia account
 <li>Custom icon and file binder</li>
 <li>File name: ANYTHING.exe</li>
 # Pictures
-![Exya main menu](https://i.imgur.com/a03K2Vp.png)
-![Exya build menu](https://i.imgur.com/XQYpTXB.png)
+![GitHub Logo](/images/main.png)
+![GitHub Logo](/images/build.png)
