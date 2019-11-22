@@ -1,4 +1,4 @@
-## Growtopia-EXYA
+<h1> Growtopia Exya</h1>
 Exya is a stealer builder with optional AAP bypass for hacking Growtopia accounts.
 <h1>Features with explanation on some of them</h1>
 <li>Hide stealer:Hides stealer so victim cant find it</li>
@@ -17,6 +17,4 @@ Exya is a stealer builder with optional AAP bypass for hacking Growtopia account
 <li>Protect stealer:You dont need to put high, low works very well.</li>
 <li>Custom icon and file binder</li>
 <li>File name: ANYTHING.exe</li>
-## Pictures
-![GitHub Logo](/images/main.png)
-![GitHub Logo](/images/build.png)
+<h1>Pictures</h1>
