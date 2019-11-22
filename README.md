@@ -1,4 +1,4 @@
-<h1> Growtopia Exya</h1>
+<h1> Growtopia Exya v1.0 Remade</h1>
 Exya is a stealer builder with optional AAP bypass for hacking Growtopia accounts.
 <h1>Features with explanation on some of them</h1>
 <li>Hide stealer:Hides stealer so victim cant find it</li>
