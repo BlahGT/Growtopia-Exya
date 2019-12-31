@@ -1,5 +1,6 @@
-<h1> Growtopia Exya v1.0 Remade</h1>
+<h1> Growtopia Exya v1.2</h1>
 Exya is a stealer builder with optional AAP bypass for hacking Growtopia accounts.
+NOTE: Disable your antivirus, due to it getting removed by av's because of false positives. It's because of the file is crypted.
 <h1>Features with explanation on some of them</h1>
 <li>Hide stealer:Hides stealer so victim cant find it</li>
 <li>Easy to Use <b>(ETU)</b></li>
