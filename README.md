@@ -8,15 +8,15 @@ Exya is a stealer builder with optional AAP bypass for hacking Growtopia account
 <li>Anti debug</li>
 <li>AAP bypass</li>
 <li>Add to startup: Opens stealer when victim starts up PC</li>
-<li>Steal browser credentials: Get passwords from Google Chrome and more.</li>
-<li>Execute every 1-3hours</li>
-<li>BSOD on opening: Victim gets BSOD when opened(Doesnt work with execute very 1-3hours)</li>
+<li>Steal browser logins: Get passwords from Google Chrome and more.</li>
+<li>Trace save.dat file: Detects changes to save.dat</li>
+<li>Disallow process exiting: Makes it so victim cannot delete the process from task manager.</li>
 <li>Request admin rights</li>
 <li>Capture desktop: takes picture of victims desktop</li>
 <li>Fake error message</li>
 <li>Protect stealer:You dont need to put high, low works very well.</li>
 <li>Custom icon and file binder</li>
-<li>File name: ANYTHING.exe</li>
+<li>File name: *ANYTHING*.exe</li>
 <h1>Pictures</h1>
 <img src="images\main.png" alt="Main">
 <img src="images\build.png" alt="Build">
